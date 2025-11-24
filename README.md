@@ -38,10 +38,10 @@
     <div class="container">
         <div class="card">
        <h1 style="text-align:center;text-decorating: none; color: white; padding: 0 50px;">NGUYỄN NGỌC PHƯƠNG DUYÊN</h1>
-         <div style="background-color: #5580C1; padding: 10px;"> 
-       <p style="text-decorating: none; color: white; padding: 0 30px;">-Lớp: 12 Văn</p>
-       <p style="text-decorating: none; color: white; padding: 0 30px;">-Biệt danh: Trùm canva, cố, thủ khoa GDQP,...</p>  
-       <p style="text-decorating: none; color: white; padding: 0 30px;">-Tính cách: Hướng nội (ngoại) tùy lúc, thân thiện,..</p> 
-       <p style="text-decorating: none; color: white; padding: 0 30px;">-Sở thích: Chơi game, vẽ</p>
+         <div style="background-color: #9387AB; padding: 10px;"> 
+       <p style="text-decorating: none; color: white; padding: 0 40px;">-Lớp: 12 Văn</p>
+       <p style="text-decorating: none; color: white; padding: 0 40px;">-Biệt danh: Trùm canva, cố, thủ khoa GDQP,...</p>  
+       <p style="text-decorating: none; color: white; padding: 0 40px;">-Tính cách: Hướng nội (ngoại) tùy lúc, thân thiện,..</p> 
+       <p style="text-decorating: none; color: white; padding: 0 40px;">-Sở thích: Chơi game, vẽ</p>
          </div>
     </div>
