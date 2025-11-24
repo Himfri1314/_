@@ -12,7 +12,6 @@
             background-repeat: no-repeat;  /* Không lặp lại */
       }
     </style>
-     <h1 style="text-align:center;text-decorating: none; color: white; padding: 0 30px;">NGUYỄN NGỌC PHƯƠNG DUYÊN</h1>
  <style>
         /* --- KHUNG THÀNH VIÊN --- */
         .avatar {
@@ -22,12 +21,13 @@
             border-radius: 50%;
             border: 3px solid #bcdcff;
             margin-bottom: 10px;
-        }
-   .center-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto; /* hoặc margin: 0 auto */
-  }
+            }
+      .center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto; /* hoặc margin: 0 auto */
+            width: 300px;       /* tùy chỉnh */
+            }
 </style>
 <div class="card">
         <img src="duyen.png" class="avatar">
@@ -35,8 +35,9 @@
     <div class="background"></div>
     <div class="container">
         <div class="card">
-       <p style="text-decorating: none; color: white; padding: 0 30px;text-align: right;">Lớp: 12 Văn
-        Biệt danh: Trùm canva, cố, thủ khoa GDQP,...
-        Tính cách: Hướng nội (ngoại) tùy lúc, thân thiện,..
-        Sở thích: Chơi game, vẽ</p>
-        </div>
+       <h1 style="text-align:center;text-decorating: none; color: white; padding: 0 30px;">NGUYỄN NGỌC PHƯƠNG DUYÊN</h1>
+       <p style="text-decorating: none; color: white; padding: 0 30px;">Lớp: 12 Văn</p>
+       <p style="text-decorating: none; color: white; padding: 0 30px;">Biệt danh: Trùm canva, cố, thủ khoa GDQP,...</p>
+       <p style="text-decorating: none; color: white; padding: 0 30px;">Tính cách: Hướng nội (ngoại) tùy lúc, thân thiện,..</p>
+       <p style="text-decorating: none; color: white; padding: 0 30px;">Sở thích: Chơi game, vẽ</p>
+    </div>
