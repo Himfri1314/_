@@ -22,6 +22,12 @@
             border: 3px solid #bcdcff;
             margin-bottom: 10px;
         }
+  .center-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; /* hoặc margin: 0 auto */
+    width: 300px;       /* tùy chỉnh */
+  }
 </style>
 <div class="card">
         <img src="Phương Duyên.png" class="avatar">
@@ -31,5 +37,5 @@
         <div class="card">
             <h1 style="text-align:center;text-decorating: none; color: white; padding: 0 30px;">NGUYỄN NGỌC PHƯƠNG DUYÊN</h1>
        <p style="text-decorating: none; color: white; padding: 0 30px;text-align: right;">Biệt danh: Trùm canva, cố, thủ khoa GDQP,...</p>
-        <p style="text-decorating: none; color: white; padding: 0 30px;text-align: ;">Sở thích: Chơi game, vẽ</p>
+        <p style="text-decorating: none; color: white; padding: 0 30px;text-align: right;">Sở thích: Chơi game, vẽ</p>
         </div>
