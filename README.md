@@ -30,7 +30,7 @@
   }
 </style>
 <div class="card">
-        <img src="Phương Duyên.png" class="avatar">
+        <img src="duyen.png" class="avatar">
 <body>
     <div class="background"></div>
     <div class="container">
